@@ -12,10 +12,10 @@ setuptools==41.2.0
 six==1.15.0
 soupsieve==2.0.1
 urllib3==1.25.9
-vbio==0.0.11
 vkcoin==2.0.4
 vkcoinapi==1.2.7
 websocket==0.2.1
 websocket-client==0.57.0
 zope.event==4.4
 zope.interface==5.1.0
+hashlib
