@@ -16,7 +16,4 @@ vkcoin==2.0.4
 vkcoinapi==1.2.7
 websocket==0.2.1
 websocket-client==0.57.0
-zope.event==4.4
-zope.interface==5.1.0
 os
-hashlib
