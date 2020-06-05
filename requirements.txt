@@ -13,7 +13,6 @@ six==1.15.0
 soupsieve==2.0.1
 urllib3==1.25.9
 vbio==0.0.11
-vk-requests==1.2.0
 vkcoin==2.0.4
 vkcoinapi==1.2.7
 websocket==0.2.1
