@@ -11,6 +11,6 @@ pycparser==2.20
 setuptools==41.2.0
 six==1.15.0
 soupsieve==2.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 vkcoin==2.0.4
 vkcoinapi==1.2.7
