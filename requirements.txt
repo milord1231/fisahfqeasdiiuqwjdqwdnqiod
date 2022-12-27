@@ -8,7 +8,7 @@ greenlet==0.4.15
 idna==2.9
 pip==19.2.3
 pycparser==2.20
-setuptools==41.2.0
+setuptools==65.5.1
 six==1.15.0
 soupsieve==2.0.1
 urllib3==1.25.9
